@@ -4,29 +4,28 @@
 
 Es mi primera API REST completa y estoy súper emocionado de compartirla contigo. Si también eres principiante como yo, espero que este proyecto te sirva de inspiración!
 
-![Base de datos - Respuestas](C:\Users\gleni\OneDrive\Desktop\forohub\forohub\src\main\java\img\1.png)
+![Base de datos - Respuestas](/src/main/java/img/1.png)
 
-![Base de datos - Topicos](C:\Users\gleni\OneDrive\Desktop\forohub\forohub\src\main\java\img\2.png.)
+![Base de datos - Topicos](src\main\java\img\2.png)
 
-![Base de datos - Usuarios](C:\Users\gleni\OneDrive\Desktop\forohub\forohub\src\main\java\img\3.png)
+![Base de datos - Usuarios](src\main\java\img\3.png)
+![Insomnia - Usuarios](src\main\java\img\4.png)
 
-![Insomnia - Usuarios](C:\Users\gleni\OneDrive\Desktop\forohub\forohub\src\main\java\img\4.png)
+![Insomnia - Login](src\main\java\img\5.png)
 
-![Insomnia - Login](C:\Users\gleni\OneDrive\Desktop\forohub\forohub\src\main\java\img\5.png)
+![Insomnia - Crear Topico](src\main\java\img\6.png)
 
-![Insomnia - Crear Topico](C:\Users\gleni\OneDrive\Desktop\forohub\forohub\src\main\java\img\6.png)
+![Insomnia - Listar Topico](src\main\java\img\7.png)
 
-![Insomnia - Listar Topico](C:\Users\gleni\OneDrive\Desktop\forohub\forohub\src\main\java\img\7.png)
+![Insomnia - Detallar Topico](src\main\java\img\8.png)
 
-![Insomnia - Detallar Topico](C:\Users\gleni\OneDrive\Desktop\forohub\forohub\src\main\java\img\8.png)
+![Insomnia - Actualizar Topico](src\main\java\img\9.png)
 
-![Insomnia - Actualizar Topico](C:\Users\gleni\OneDrive\Desktop\forohub\forohub\src\main\java\img\9.png)
+![Insomnia - Eliminar Topico](src\main\java\img\10.png)
 
-![Insomnia - Eliminar Topico](C:\Users\gleni\OneDrive\Desktop\forohub\forohub\src\main\java\img\10.png)
+![Insomnia - Respuestas](src\main\java\img\11.png)
 
-![Insomnia - Respuestas](C:\Users\gleni\OneDrive\Desktop\forohub\forohub\src\main\java\img\11.png)
-
-![Insomnia - Eliminar Respuestas](C:\Users\gleni\OneDrive\Desktop\forohub\forohub\src\main\java\img\12.png)
+![Insomnia - Eliminar Respuestas](src\main\java\img\12.png)
 
 
 
@@ -198,7 +197,7 @@ Puedes:
 ## Contacto
 
 - **GitHub**: [@glenisc08](https://github.com/glenisc08)
-- **LinkedIn**: [www.linkedin.com/in/glenis-corona-19101332a) 
+- **LinkedIn**: www.linkedin.com/in/glenis-corona-19101332a
 
 
 ---
