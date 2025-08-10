@@ -4,25 +4,25 @@
 
 Es mi primera API REST completa y estoy súper emocionado de compartirla contigo. Si también eres principiante como yo, espero que este proyecto te sirva de inspiración!
 
-![Base de datos - Respuestas](/img/1.png)
+![Base de datos - Respuestas](img/1.png)
 
-![Base de datos - Topicos](/img/2.png)
+![Base de datos - Topicos](img/2.png)
 
-![Base de datos - Usuarios](/img/3.png)
+![Base de datos - Usuarios](img/3.png)
 
-![Insomnia - Usuarios](/img/4.png)
+![Insomnia - Usuarios](img/4.png)
 
-![Insomnia - Login](/img/5.png)
+![Insomnia - Login](img/5.png)
 
-![Insomnia - Crear Topico](/img/6.png)
+![Insomnia - Crear Topico](img/6.png)
 
-![Insomnia - Listar Topico](/img/7.png)
+![Insomnia - Listar Topico](img/7.png)
 
-![Insomnia - Detallar Topico](/img/8.png)
+![Insomnia - Detallar Topico](img/8.png)
 
-![Insomnia - Actualizar Topico](/img/9.png)
+![Insomnia - Actualizar Topico](img/9.png)
 
-![Insomnia - Eliminar Topico](/img/10.png)
+![Insomnia - Eliminar Topico](img/10.png)
 
 ![Insomnia - Respuestas](img/11.png)
 
