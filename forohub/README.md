@@ -2,7 +2,7 @@
 
 ¡Hola! Soy estudiante de programación y este es mi proyecto del **Challenge Back End** de Alura LATAM. 
 
-Es mi primera API REST completa y estoy súper emocionado de compartirla contigo. Si también eres principiante como yo, espero que este proyecto te sirva de inspiración!
+Es mi primera API REST completa y estoy súper emocionada de compartirla contigo. Si también eres principiante como yo, espero que este proyecto te sirva de inspiración!
 
 ![Base de datos - Respuestas](img/1.png)
 
@@ -188,7 +188,7 @@ POST /respuestas
 
 ## ¿Me ayudas a mejorar?
 
-Si eres más experimentado que yo y ves algo que se puede mejorar, ¡me encantaría tu feedback!
+Si eres más experimentado/a que yo y ves algo que se puede mejorar, ¡me encantaría tu feedback!
 
 Puedes:
 - Crear un **Issue** si encuentras un bug
