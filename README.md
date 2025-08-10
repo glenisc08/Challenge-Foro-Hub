@@ -47,7 +47,7 @@ Como es una API, no tiene interfaz gráfica bonita, pero puedes probarla en:
 - **Swagger**: http://localhost:8080/swagger-ui.html (cuando la ejecutes)
 - **Postman** o **Insomnia** 
 
-![Java](https://img.shields.io/badge/Java-17+-orange?style=for-the-badge&logo=java)
+![Java](https://img.shields.io/badge/Java-21+-orange?style=for-the-badge&logo=java)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.0+-brightgreen?style=for-the-badge&logo=spring)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-13+-blue?style=for-the-badge&logo=postgresql)
 
@@ -172,7 +172,7 @@ POST /respuestas
 - **Problema**: 403 Forbidden en endpoints
 - **Solución**: Verificar que el token esté en el formato: `Bearer espacio token`
 
-## 📚 Recursos que me ayudaron
+## Recursos que me ayudaron
 
 - [Curso de Spring Boot en Alura](https://www.aluracursos.com/)
 - [Documentación oficial de Spring Boot](https://spring.io/projects/spring-boot)
@@ -204,7 +204,3 @@ Puedes:
 ---
 
 ⭐ Si este proyecto te sirvió de algo, ¡dale una estrella! Me motivaría muchísimo para seguir aprendiendo.
-
----
-
-*"Mi primer API REST, pero definitivamente no la última"* 🚀
