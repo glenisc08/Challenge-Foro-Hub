@@ -4,29 +4,29 @@
 
 Es mi primera API REST completa y estoy súper emocionado de compartirla contigo. Si también eres principiante como yo, espero que este proyecto te sirva de inspiración!
 
-![Base de datos - Respuestas](1.png)
+![Base de datos - Respuestas](C:\Users\gleni\OneDrive\Desktop\forohub\forohub\src\main\java\img\1.png)
 
-![Base de datos - Topicos](2.png)
+![Base de datos - Topicos](C:\Users\gleni\OneDrive\Desktop\forohub\forohub\src\main\java\img\2.png.)
 
-![Base de datos - Usuarios](3.png)
+![Base de datos - Usuarios](C:\Users\gleni\OneDrive\Desktop\forohub\forohub\src\main\java\img\3.png)
 
-![Insomnia - Usuarios](4.png)
+![Insomnia - Usuarios](C:\Users\gleni\OneDrive\Desktop\forohub\forohub\src\main\java\img\4.png)
 
-![Insomnia - Login](5.png)
+![Insomnia - Login](C:\Users\gleni\OneDrive\Desktop\forohub\forohub\src\main\java\img\5.png)
 
-![Insomnia - Crear Topico](6.png)
+![Insomnia - Crear Topico](C:\Users\gleni\OneDrive\Desktop\forohub\forohub\src\main\java\img\6.png)
 
-![Insomnia - Listar Topico](7.png)
+![Insomnia - Listar Topico](C:\Users\gleni\OneDrive\Desktop\forohub\forohub\src\main\java\img\7.png)
 
-![Insomnia - Detallar Topico](8.png)
+![Insomnia - Detallar Topico](C:\Users\gleni\OneDrive\Desktop\forohub\forohub\src\main\java\img\8.png)
 
-![Insomnia - Actualizar Topico](9.png)
+![Insomnia - Actualizar Topico](C:\Users\gleni\OneDrive\Desktop\forohub\forohub\src\main\java\img\9.png)
 
-![Insomnia - Eliminar Topico](10.png)
+![Insomnia - Eliminar Topico](C:\Users\gleni\OneDrive\Desktop\forohub\forohub\src\main\java\img\10.png)
 
-![Insomnia - Respuestas](11.png)
+![Insomnia - Respuestas](C:\Users\gleni\OneDrive\Desktop\forohub\forohub\src\main\java\img\11.png)
 
-![Insomnia - Eliminar Respuestas](12.png)
+![Insomnia - Eliminar Respuestas](C:\Users\gleni\OneDrive\Desktop\forohub\forohub\src\main\java\img\12.png)
 
 
 
